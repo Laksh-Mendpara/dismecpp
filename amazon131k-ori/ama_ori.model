@@ -1,0 +1,13 @@
+{
+    "date": "2024-08-31 - 17:46:17",
+    "files": [
+        {
+            "count": 131073,
+            "file": "ama_ori.model.weights-0-131072",
+            "first": 0,
+            "weight-format": "SparseTXT"
+        }
+    ],
+    "num-features": 40001,
+    "num-labels": 131073
+}
